@@ -1,5 +1,3 @@
-`#0969DA`
-
 # SUIVI DE LA TENSION ARTÉRIELLE
 ==============================
 
@@ -21,5 +19,3 @@ Si vous avez des **propositions ou des [idées écrivez moi](iba99@icloud.com)**
 <!-- 
 ![Image](https://github.com/Ibrahima-BA/Releve-d-automesure-tensionnell/blob/f663fee37d1c2a13e96d71e38af01feba3bcc354/SUIVI%20DE%20LA%20TENSION%20ARTE%CC%81RIELLE.png)
   -->
-  
-  The background color is `#ffffff` for light mode and `#000000` for dark mode.
